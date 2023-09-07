@@ -1,0 +1,36 @@
+ @font-face{
+        font-family: 'teddy_bear'; 
+        src: url(./fonts/teddy-bear.ttf); 
+    }
+}
+body{
+    background-color: rgb(238, 248, 247);
+    width: 800px;
+    margin: 0 auto;
+}
+h1{
+    color:rgb(16, 9, 151);
+}
+h2{
+    color:blue;
+}
+a{
+    color: rgb(7, 17, 154);
+}
+a:hover{
+    color: brown; /*С†РІРµС‚ СЃСЃС‹Р»РєРё РїСЂРё РЅР°РІРµРґРµРЅРёРё */
+    text-decoration: underline;/*РґРѕР±Р°РІР»РµРЅРёСЏ РїРѕРґС‡РµСЂРєРёРІР°РЅРёСЏ */
+}
+img{
+    border: 5px solid rgb(167, 180, 239);
+}
+.big_text{
+    font-size: 1.5rem;
+}
+square_markers{
+    list-style-type: square;
+}
+.font{
+    font-family: 'teddy_bear', sans-serif;
+}
+
